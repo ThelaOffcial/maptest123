@@ -1,0 +1,10 @@
+{
+  "name": "Sri Sumangala College Distance Check",
+  "description": "Grade 1 admission distance calculation, school proximity evaluation, and marks assessment tool for Sri Sumangala College, Panadura.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
